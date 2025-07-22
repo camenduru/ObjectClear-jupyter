@@ -18,3 +18,5 @@ https://arxiv.org/abs/2505.22636
 https://zjx0101.github.io/projects/ObjectClear/
 
 ### 🖼 Output
+
+<img width="2358" height="2024" alt="Image" src="https://github.com/user-attachments/assets/44b571f3-4cef-440d-a606-19c91f26ea5a" />
